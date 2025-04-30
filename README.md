@@ -2,7 +2,7 @@
 
 📍 Milan, IT  
 ✉️ [matteoromilio.pasqual@mail.polimi.it](mailto:matteoromilio.pasqual@mail.polimi.it)  
-🔗 [LinkedIn – Matteo Pasqual](https://www.linkedin.com/in/matteo-pasqual-1b5184333/)
+🔗 [LinkedIn – Matteo Pasqual](https://www.linkedin.com/in/matteo-romilio-pasqual/)
 
 > _"In the middle of difficulty lies opportunity." – Albert Einstein_
 
