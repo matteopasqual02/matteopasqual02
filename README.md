@@ -79,7 +79,7 @@
 ## 🌐 Languages
 
 - **Italian**: Native  
-- **English**: B2+ (TOEIC score: 815)
+- **English**: C1
 
 ---
 
