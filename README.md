@@ -28,7 +28,7 @@
 
 ## 🛠 Skills
 
-- **Programming & Software Dev.**: C/C++, Java, Python, Git (GitHub), JML, Alloy  
+- **Programming & Software Dev.**: C/C++, Java, Python, Git (GitHub)
 - **Databases Technologies**: SQL, Neo4j, MongoDB, Spark, Zilliz-Milvus  
 - **OS & Middleware**: ROS, Linux, Windows, Docker, VMs  
 - **Other Technologies**: Matlab, VHDL/Vivado, LaTeX, MS Office
@@ -49,18 +49,30 @@
 
 ### **Multi-agent System – Leonardo Drone Contest 2025**  
 📅 _L.D.C. 2025_  
-🔗 [Drone Contest](https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest)
+🔗 [Drone Contest](https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest)  
 
-- Participated in national university-level robotics competition  
-- Designed a multi-agent system with ROS2 for collaborative navigation and task execution  
-- Developed decentralized decision-making algorithms and drone communication protocols
+- Participated in a national robotics competition  
+- Designed a multi-agent system in **ROS2** for collaborative navigation and dynamic task execution  
+- Developed decentralized decision-making algorithms and drone communication protocols  
+- Worked on real-world indoor scenarios  
+- Enhanced teamwork and problem-solving  
 
 ### **Kolmogorov–Arnold Networks (K.A.N.s) Lecture**  
 📅 _K.A.N.s_  
-🔗 [GitHub Repository](https://github.com/matteopasqual02/KAN-naml.git)
+🔗 [GitHub Repository](https://github.com/matteopasqual02/KAN-naml.git)  
 
-- Delivered a university-style lecture on K.A.N.s  
-- Scored 30/30 and selected for future Numerical Analysis for Machine Learning (NAML) lectures at PoliMi
+- Delivered a **university-style lecture** on K.A.N.s  
+- Introduced key theory, applications and comparisons with neural networks  
+- Evaluated 30/30 and selected for future Numerical Analysis for Machine Learning (NAML) lectures at PoliMi  
+- Created hands-on material and demonstrations  
+
+### **Non-Intrusive Monitoring of Daily Habits: A CGR-Based Approach**  
+📅 _Research_  
+
+- Developed a framework for daily habit monitoring using **Chaos Game Representation (CGR)**  
+- Categorized behaviours and detected anomalies in elderly daily routines  
+- Accepted at **UCAmI 2025 – 17th International Conference on Ambient Intelligence (Prato, Italy)**  
+
 
 ---
 
