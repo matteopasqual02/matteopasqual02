@@ -4,7 +4,7 @@
 ✉️ [matteoromilio.pasqual@mail.polimi.it](mailto:matteoromilio.pasqual@mail.polimi.it)  
 🔗 [LinkedIn – Matteo Pasqual](https://www.linkedin.com/in/matteo-romilio-pasqual/)
 
-> _"In the middle of difficulty lies opportunity." – Albert Einstein_
+> *"In the middle of difficulty lies opportunity." – Albert Einstein*
 
 ---
 
@@ -12,85 +12,92 @@
 
 **Politecnico di Milano**  
 *M.Sc. in Computer Science and Engineering – Artificial Intelligence*  
-📅 _Sep 2024 – Present_
+📅 *Sep 2024 – Present*
 
-**Politecnico di Milano**  
-*B.Sc. in Computer Science and Engineering* ([polimi.it](https://www.polimi.it/))  
-📅 _Sep 2021 – Jul 2024_  
-📈 Grade: 109/110
+**Politecnico di Milano** ([polimi.it](https://www.polimi.it/))  
+*B.Sc. in Computer Science and Engineering*  
+📅 *Sep 2021 – Jul 2024*  
+📈 Grade: **109/110**
 
 **Liceo Scientifico "Leonardo da Vinci"** ([liceogallarate.edu.it](https://www.liceogallarate.edu.it/))  
-*Diploma di Liceo Scientifico - Scienze Applicate*  
-📅 _Sep 2016 – Jul 2021_  
-📈 Grade: 96/100
+*Diploma di Liceo Scientifico – Scienze Applicate*  
+📅 *Sep 2016 – Jul 2021*  
+📈 Grade: **96/100**
 
 ---
 
 ## 🛠 Skills
 
-- **Programming & Software Dev.**: C/C++, Java, Python, Git (GitHub)
-- **Databases Technologies**: SQL, Neo4j, MongoDB, Spark, Zilliz-Milvus  
-- **OS & Middleware**: ROS, Linux, Windows, Docker, VMs  
-- **Other Technologies**: Matlab, VHDL/Vivado, LaTeX, MS Office
+* **Programming & Software Development**: Python, C/C++, Java, Git (GitHub)
+* **Databases Technologies**: SQL, MongoDB, Spark, Neo4j, Zilliz-Milvus
+* **OS & Middleware**: ROS, **ROS2**, Linux, Docker, Virtual Machines
+* **Other Technologies**: Matlab, VHDL/Vivado, LaTeX, MS Office
 
 ---
 
 ## 👣 Experience
 
-**University Peer-to-peer Tutor** – _Politecnico di Milano, Milano, IT_  
-📅 _Oct 2022 – Feb 2023_
+**University Multichannel Tutor** – *Politecnico di Milano, Milano, IT*  
+📅 *Sep 2025 – Mar 2026*
 
-- Tutored classmates with university sponsorship  
-- Gained skills in work management and basic teaching
+* Tutored university students with learning difficulties
+* Provided personalized academic support and study assistance
+
+**University Peer-to-peer Tutor** – *Politecnico di Milano, Milano, IT*  
+📅 *Sep 2022 – Jul 2024*
+
+* Tutored classmates with university sponsorship
+* Developed work management and basic teaching skills
 
 ---
 
 ## 🧪 Projects and Research
 
-### **Multi-agent System – Leonardo Drone Contest 2025**  
-📅 _L.D.C. 2025_  
-🔗 [Drone Contest](https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest)  
+### **Multi-agent System – Leonardo Drone Contest 2025**  \
 
-- Participated in a national robotics competition  
-- Designed a multi-agent system in **ROS2** for collaborative navigation and dynamic task execution  
-- Developed decentralized decision-making algorithms and drone communication protocols  
-- Worked on real-world indoor scenarios  
-- Enhanced teamwork and problem-solving  
+📅 *L.D.C. 2025*  
+🔗 [Drone Contest](https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest)
 
-### **Kolmogorov–Arnold Networks (K.A.N.s) Lecture**  
-📅 _K.A.N.s_  
-🔗 [GitHub Repository](https://github.com/matteopasqual02/KAN-naml.git)  
+* Participated in a national robotics competition
+* Designed a multi-agent system for collaborative navigation and dynamic task execution
+* Developed decentralized decision-making algorithms and agent communication protocols
+* Worked on multiple real-world unknown indoor scenarios
+* Strengthened teamwork and problem-solving skills
 
-- Delivered a **university-style lecture** on K.A.N.s  
-- Introduced key theory, applications and comparisons with neural networks  
-- Evaluated 30/30 and selected for future Numerical Analysis for Machine Learning (NAML) lectures at PoliMi  
-- Created hands-on material and demonstrations  
+### **Kolmogorov–Arnold Networks (K.A.N.s) Lecture**  \
 
-### **Non-Intrusive Monitoring of Daily Habits: A CGR-Based Approach**  
-📅 _Research_  
+📅 *K.A.N.s*  
+🔗 [GitHub Repository](https://github.com/matteopasqual02/KAN-naml.git)
 
-- Developed a framework for daily habit monitoring using **Chaos Game Representation (CGR)**  
-- Categorized behaviours and detected anomalies in elderly daily routines  
-- Accepted at **UCAmI 2025 – 17th International Conference on Ambient Intelligence (Prato, Italy)**  
+* Presented Kolmogorov–Arnold Networks in a university-style lecture
+* Introduced key theory, applications, and comparisons with neural networks
+* Evaluated **30/30** and selected for future *Numerical Analysis for Machine Learning* lectures at PoliMi
+* Created hands-on material and live demonstrations
 
+### **Non-Intrusive Monitoring of Daily Habits: A CGR-Based Approach**  \
+
+📅 *Research*
+
+* Developed a framework for daily habit monitoring using **Chaos Game Representation (CGR)**
+* Categorized behaviours and detected anomalies, particularly in elderly daily routines
+* Accepted at **UCAmI 2025 – 17th International Conference on Ambient Intelligence** (Prato, Italy)
 
 ---
 
 ## 🌐 Languages
 
-- **Italian**: Native  
-- **English**: C1
+* **Italian**: Native
+* **English**: C1
 
 ---
 
 ## 🏆 Awards
 
-- **Best Freshmen Award (2023)** – Top 5% freshmen at Politecnico di Milano
+* **Best Freshmen Award (2023)** – Top 5% freshmen at Politecnico di Milano
 
 ---
 
 ## 🌱 Volunteering
 
-**Volunteer at Oratorio di Albizzate**  
-📅 _Sep 2016 – Aug 2021_  
-📍 Albizzate
+**Volunteer at Oratorio di Albizzate** – *Albizzate*  
+📅 *Sep 2016 – Aug 2021*
