@@ -9,7 +9,6 @@ Computer Science and Engineering student specializing in **Artificial Intelligen
 📍 Milan, Italy
 📧 [matteoromilio.pasqual@mail.polimi.it](mailto:matteoromilio.pasqual@mail.polimi.it)
 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-romilio-pasqual/)
-💻 [GitHub – KAN-NAML](https://github.com/matteopasqual02/KAN-naml.git)
 
 ---
 
