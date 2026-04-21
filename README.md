@@ -46,7 +46,7 @@ Grade: **96/100**
 ### 🤖 Multi-Agent System – Leonardo Drone Contest 2025
 
 * Participated in the **Leonardo Drone Contest 2025**
-🔗 https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest
+* 🔗 https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest
 * Designed a multi-agent system for collaborative navigation in unknown indoor environments
 * Developed decentralized decision-making and inter-agent communication protocols
 * Implemented computer vision modules for object detection and pose estimation
