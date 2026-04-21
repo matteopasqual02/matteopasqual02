@@ -4,114 +4,144 @@
 
 ## 👤 Profile
 
-Computer Science and Engineering student specializing in **Artificial Intelligence** at **Politecnico di Milano**, with strong interests in Deep learning, robotics, multi-agent systems, scientific computing, and machine learning. Experienced in academic tutoring, research-oriented projects, and robotics competitions.
+Computer Science and Engineering student specializing in **Artificial Intelligence** at **Politecnico di Milano**, with strong interests in machine learning, deep learning, robotics, multi-agent systems, and scientific computing. Experienced in research-oriented projects, robotics competitions, and academic tutoring.
 
-📍 Milan, Italy
-📧 [matteoromilio.pasqual@mail.polimi.it](mailto:matteoromilio.pasqual@mail.polimi.it)
+📍 Milan, Italy  
+📧 [matteoromilio.pasqual@mail.polimi.it](mailto:matteoromilio.pasqual@mail.polimi.it)  
 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-romilio-pasqual/)
 
 ---
 
 ## 🎓 Education
 
-**Politecnico di Milano**
-**M.Sc. in Computer Science and Engineering – Artificial Intelligence**
+### Politecnico di Milano
+**M.Sc. in Computer Science and Engineering – Artificial Intelligence**  
 *Sep 2024 – Present*
 
-**Politecnico di Milano**
-**B.Sc. in Computer Science and Engineering**
-*Sep 2021 – Jul 2024*
-Grade: **109/110**
+### Politecnico di Milano
+**B.Sc. in Computer Science and Engineering**  
+*Sep 2021 – Jul 2024*  
+Grade: **109/110**  
+🔗 https://www.polimi.it/
 
-**Liceo Scientifico “Leonardo da Vinci”**
-Diploma in Scientific High School – Applied Sciences
-*Sep 2016 – Jul 2021*
-Grade: **96/100**
+### Liceo Scientifico “Leonardo da Vinci”
+Diploma in Scientific High School – Applied Sciences  
+*Sep 2016 – Jul 2021*  
+Grade: **96/100**  
+🔗 https://www.liceogallarate.edu.it/
 
 ---
 
 ## 🧪 Projects & Research
 
-### 🚁 Multi-Agent System – Leonardo Drone Contest 2025
+### 🚁 SHRED-Based Sensor Reconstruction (Master Thesis – Ongoing)
 
-* Participated in a national robotics competition (Leonardo Drone Contest 2025)
-* Designed a **multi-agent system** for collaborative navigation and dynamic task execution
-* Developed **decentralized decision-making algorithms** and inter-agent communication protocols
-* Operated in multiple real-world **unknown indoor environments**
-* Strengthened teamwork and advanced problem-solving skills
+* Investigating SHRED-based architectures for high-dimensional dynamical systems
+* Handling missing, asynchronous, and unreliable sensor measurements
+* Studying recurrent and attention-based encoders under temporal sparsity
+* Developing imputation and masking strategies for sequential models
+
+---
+
+### 🤖 Multi-Agent System – Leonardo Drone Contest 2025
+
+* Participated in the **Leonardo Drone Contest 2025**
+🔗 https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest
+* Designed a multi-agent system for collaborative navigation in unknown indoor environments
+* Developed decentralized decision-making and inter-agent communication protocols
+* Implemented computer vision modules for object detection and pose estimation
+* Worked in real-world robotics scenarios under uncertainty
+
+---
+
+### 📚 Course Projects (2025)
+
+- **ANNDL** – Time-series classification using neural networks  
+  🔗 https://github.com/Gradient-Gang/ANN-Challenges.git  
+
+- **ANNDL** – Biomedical image classification with deep learning  
+  🔗 https://github.com/Gradient-Gang/ANN-Challenge-2.git  
+
+- **MMMIP** – Image denoising, inpainting, anomaly detection  
+  🔗 https://github.com/matteopasqual02/MMMIP-2025-homeworks.git  
+
+- **OLA** – Online learning for dynamic pricing under constraints  
+  🔗 https://github.com/matteopasqual02/OLA-2025-project.git  
+
+---
 
 ### 🧠 Kolmogorov–Arnold Networks (KANs) Lecture
 
-* Delivered a lecture-style presentation on **Kolmogorov–Arnold Networks**
-* Covered theory, applications, and comparisons with classical neural networks
-* Evaluated **30/30** and selected for future *Numerical Analysis for Machine Learning* lectures at PoliMi
-* Created hands-on demos and educational material
+* Delivered lecture on KANs in *Numerical Analysis for Machine Learning*
+* Covered spline-based neural networks and theoretical foundations
+* Compared KANs vs MLP architectures
+* Achieved **30/30 evaluation**
+* Selected for inclusion in future course lectures at PoliMi  
+🔗 https://github.com/matteopasqual02/KAN-naml.git  
 
-### 🏠 Non-Intrusive Monitoring of Daily Habits (Research)
+---
 
-* Developed a monitoring framework based on **Chaos Game Representation (CGR)**
-* Modeled and categorized daily behaviors, with anomaly detection
-* Focused on **elderly daily routine monitoring**
-* Accepted at **UCAmI 2025 – 17th International Conference on Ambient Intelligence** (Prato, Italy)
+### 🏠 CGR-Based Behavioral Monitoring (Research Paper)
+
+* Co-authored paper accepted at **UCAmI 2025**
+🔗 https://doi.org/10.1007/978-3-032-16992-1_20
+* Developed Chaos Game Representation (CGR) for time-series → image transformation
+* Applied to elderly behavioral monitoring and anomaly detection
+* Evaluated on real-world multi-resident datasets
 
 ---
 
 ## 💼 Experience
 
-### University Multichannel Tutor
+### University Multichannel Tutor  
+**Politecnico di Milano** – Milan, Italy  
+*Sep 2025 – Jul 2026*
 
-**Politecnico di Milano** – Milan, Italy
-*Sep 2025 – Mar 2026*
+* Provided academic tutoring and personalized support
+* Collaborated with Multichance program
 
-* Tutored university students with learning difficulties
-* Provided personalized academic and study support
+---
 
-### University Peer-to-Peer Tutor
-
-**Politecnico di Milano** – Milan, Italy
+### University Peer-to-Peer Tutor  
+**Politecnico di Milano** – Milan, Italy  
 *Sep 2022 – Jul 2024*
 
-* Tutored fellow students under a university-sponsored program
-* Developed skills in teaching, communication, and workload management
+* Supported students in exams and coursework
+* Developed teaching and communication skills
 
 ---
 
 ## 🌍 Languages
 
-* **Italian**: Native
-* **English**: C1
+* **Italian**: Native  
+* **English**: C1  
 
 ---
 
 ## 🛠️ Skills
 
-**Programming & Software Development**
+### Programming & Software Development
+- Python, C, C++, Java  
 
-* Python, C, C++, Java
+### Databases & Data Technologies
+- SQL, MongoDB, Spark, Neo4j, Zilliz Milvus  
 
-**Databases & Data Technologies**
+### Systems & Middleware
+- Linux, ROS, ROS2, Docker, Virtual Machines  
 
-* SQL, MongoDB, Apache Spark, Neo4j, Zilliz Milvus
-
-**Operating Systems & Middleware**
-
-* Linux, ROS, ROS2, Docker, Virtual Machines
-
-**Other Technologies**
-
-* MATLAB, VHDL, Vivado
+### Other Tools
+- MATLAB, VHDL, Vivado  
 
 ---
 
 ## 🏆 Awards
 
-* **Best Freshmen Award (2023)** – Top 5% of freshmen at Politecnico di Milano
+* **Best Freshmen Award (2023)** – Top 5% students at Politecnico di Milano  
 
 ---
 
 ## 🤝 Volunteering
 
-**Volunteer – Oratorio di Albizzate**
-Albizzate, Italy
+### Volunteer – Oratorio di Albizzate  
+Albizzate, Italy  
 *Sep 2016 – Aug 2021*
----
