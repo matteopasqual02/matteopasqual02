@@ -33,6 +33,8 @@
 \usepackage{ifthen} % for conditional statements
 \usepackage{needspace} % for avoiding page brake right after the section title
 \usepackage{iftex} % check if engine is pdflatex, xetex or luatex
+\usepackage{etoolbox}
+
 % Ensure that generate pdf is machine readable/ATS parsable:
 \ifPDFTeX
     \input{glyphtounicode}
@@ -138,7 +140,11 @@
     \kern 0.25 cm
     \AND
     \kern 0.25 cm
-    \mbox{\hrefWithoutArrow{https://www.linkedin.com/in/matteo-romilio-pasqual/}{\color{black}{\footnotesize\faLinkedinIn}\hspace*{0.13cm}Matteo Pasqual}}
+    \mbox{\hrefWithoutArrow{https://www.linkedin.com/in/matteo-romilio-pasqual/}{\color{black}{\footnotesize\faLinkedinIn}\hspace*{0.13cm}Matteo Pasqual}}%
+    \kern 0.25 cm
+    \AND
+    \kern 0.25 cm
+    \mbox{\hrefWithoutArrow{https://github.com/matteopasqual02}{\color{black}{\footnotesize\faGithub}\hspace*{0.13cm}matteopasqual02}}
 
     "In the middle of difficulty lies opportunity." – Albert Einstein
         
@@ -149,27 +155,29 @@
 \section{\mbox{{\color{black}\footnotesize\faGraduationCap}\hspace*{0.13cm}Education}}
     
     \begin{twocolentry}{    
-    \textit{Sep 2024 – Today}}
-    \textbf{Politecnico di Milano}
-    M.Sc. in Computer Science and Engineering - Artificial intelligence
-    \end{twocolentry}   
+    \textit{Sep 2024 – Jul 2026}}
+    \textbf{Politecnico di Milano (\href{https://www.polimi.it/}{polimi.it})}
+    \end{twocolentry}
+    \begin{onecolentry}
+    M.Sc. in Computer Science and Engineering - Artificial intelligence \hspace{20pt}Grade: 110L/110
+    \end{onecolentry}   
 
     \vspace{0.10 cm}
     \begin{twocolentry}{
     \textit{Sep 2021 – Jul 2024}}
-    \textbf{Politecnico di Milano}
+    \textbf{Politecnico di Milano (\href{https://www.polimi.it/}{polimi.it})}
     \end{twocolentry}
     \begin{onecolentry}
-    B.Sc. in Computer Science and Engineering \hspace{1pt}(\href{https://www.polimi.it/}{polimi.it}) \hspace{76pt}Grade: 109/110
+    B.Sc. in Computer Science and Engineering \hspace{1pt} \hspace{119pt}Grade: 109/110
     \end{onecolentry}
 
     \vspace{0.10 cm}
     \begin{twocolentry}{
     \textit{Sep 2016 – Jul 2021}}
-    \textbf{Liceo Scientifico "Leonardo da Vinci"}
+    \textbf{Liceo Scientifico "Leonardo da Vinci" (\href{https://www.liceogallarate.edu.it/} {liceogallarate.it})}
     \end{twocolentry}
     \begin{onecolentry}
-    Diploma di Liceo Scientifico - Scienze Applicate \hspace{1pt}(\href{https://www.liceogallarate.edu.it/} {liceogallarate.edu.it}) \hspace{12pt}Grade: 96/100
+    Diploma di Liceo Scientifico - Scienze Applicate \hspace{1pt} \hspace{102pt}Grade: 96/100
     \end{onecolentry}
 
 
@@ -178,58 +186,56 @@
 \section{\mbox{{\color{black}\footnotesize\faReact}\hspace*{0.13cm}Projects and Research}}
 
 \vspace{0.10 cm}
-\begin{twocolentry}{\textit{Ongoing Thesis - 2026}}
-\textbf{SHRED-Based Sensor Reconstruction in High-Dimensional Dynamical Systems with Missing and Irregular Measurements}
+\begin{twocolentry}{\textit{Master Thesis - 2026}}
+\textbf{M-SHRED: Masked Shallow Recurrent Decoders \\ for Fault-Tolerant Sparse Sensing under Missing Sensor Measurements}
 \end{twocolentry}
 
 \vspace{0.10 cm}
 \begin{onecolentry}
 \begin{highlights}
-    \item Investigating SHRED-based architectures for state reconstruction in high-dimensional dynamical systems under missing, asynchronous, and unreliable sensor measurements
-    \item Studying the impact of incomplete temporal coverage on recurrent and attention-based encoders within the SHRED framework developing and benchmarking strategies for handling missing data, including imputation methods and masking mechanisms for sequential models
+    \item Designed and validated a hierarchy of Transformer-based masking mechanisms to make sparse-sensing reconstruction models explicitly aware of missing sensor data, and introduced a multi-step decoding training strategy that further improved reconstruction accuracy and latent trajectory smoothness, with no additional inference-time overhead
+    \item Gained hands-on research experience in deep learning and reduced-order modeling, alongside strengthened skills in experimental design, scientific writing, and end-to-end reproducible ML research on both synthetic and real-world noisy datasets
 \end{highlights}
 \end{onecolentry}
 
 \vspace{0.20 cm}
-\begin{twocolentry}{\textit{Project - 2025}}
+\begin{twocolentry}{\textit{Challenge - 2025}}
     \textbf{Multi-agent System Leonardo Drone Contest 2025}
 \end{twocolentry}
 \vspace{0.10 cm}
 \begin{onecolentry}
     \begin{highlights}         
-        \item Participated in a national robotics competition (\href{https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest}{Leonardo Drone Contest})
-        \item Designed a multi-agent system for collaborative navigation and dynamic task allocation in unknown indoor environments, developing decentralized decision-making strategies, inter-agent communication protocols, and computer vision modules for object detection and pose estimation
-        \item Strengthened skills in teamwork, robustness engineering, and problem-solving under uncertainty
+        \item Ranked 2nd nationally in a robotics competition (\href{https://www.leonardo.com/it/innovation-technology/open-innovation/drone-contest}{LDC-2025}) among teams from top Italian universities
+        \item Developed planning, exploration, and localization algorithms for a collaborative rover-drone system, together with computer vision modules for ArUco/QR marker detection and unknown object detection, to dynamically execute and reschedule mission tasks in real time based on external triggers
+        \item Achieved reliable autonomous target and object detection, marker-sequence following, and coordinated rover-drone task hand-off, validating the robustness of the proposed planning and perception pipeline under dynamic, real-time mission constraints
     \end{highlights}
 \end{onecolentry}
 
 \vspace{0.20 cm}
-\begin{twocolentry}{\textit{Project - 2025}}
+\begin{twocolentry}{\textit{Projects - 2025}}
     \textbf{Course Projects}
 \end{twocolentry}
 
 \vspace{0.10 cm}
 \begin{onecolentry}
     \begin{highlights}
-        \item ANNDL course project: multivariate time-series classification using neural networks (\href{https://github.com/Gradient-Gang/ANN-Challenges.git}{GitHub})
-        \item ANNDL course project: biomedical image classification using deep learning methods (\href{https://github.com/Gradient-Gang/ANN-Challenge-2.git}{GitHub})
-        \item MMMIP course project: image processing for denoising, inpainting, and anomaly detection (\href{https://github.com/matteopasqual02/MMMIP-2025-homeworks.git}{GitHub})
-        \item OLA course project: pricing under budget constraints using online learning methods (\href{https://github.com/matteopasqual02/OLA-2025-project.git}{GitHub})
+        \item Artificial Neural Networks and Deep Learning (ANNDL) course project: multivariate time-series classification using neural networks (\href{https://github.com/Gradient-Gang/ANN-Challenges.git}{GitHub})
+        \item Artificial Neural Networks and Deep Learning (ANNDL) course project: biomedical image classification using deep learning methods (\href{https://github.com/Gradient-Gang/ANN-Challenge-2.git}{GitHub})
+        \item Mathematical Models and Methods for Image Processing (MMMIP) course project: image processing for denoising, inpainting, and anomaly detection (\href{https://github.com/matteopasqual02/MMMIP-2025-homeworks.git}{GitHub})
+        \item Online Learning Applications (OLA) course project: pricing under budget constraints using online learning methods (\href{https://github.com/matteopasqual02/OLA-2025-project.git}{GitHub})
     \end{highlights}
 \end{onecolentry}
 
 \vspace{0.20 cm}
-\begin{twocolentry}{\textit{Research - 2024}}
-    \textbf{Kolmogorov-Arnold Networks (KAN) lecture}
+\begin{twocolentry}{\textit{Project - 2024}}
+    \textbf{Kolmogorov-Arnold Networks (KANs) lecture}
 \end{twocolentry}
 \vspace{0.10 cm}
 \begin{onecolentry}
     \begin{highlights}
-    
-        \item Delivered a lecture on KANs, a neural architecture inspired by the Kolmogorov–Arnold representation theorem, as part of the Numerical Analysis for Machine Learning course
-        \item Presented the theoretical foundations of KANs and their differences from MLP, focusing on spline-based learnable activation functions, training methodology, sparsification, pruning, and symbolic regression techniques, highlighting advantages in interpretability and function approximation
-        \item Achieved top evaluation (30/30) and selected for inclusion in future NAML lectures at PoliMi
-        \item Developed supporting materials and implementation examples (\href{https://github.com/matteopasqual02/KAN-naml.git}{GitHub})
+        \item Studied and presented Kolmogorov-Arnold Networks (KANs), a spline-based alternative to MLPs inspired by the Kolmogorov-Arnold theorem, as part of the Numerical Analysis for Machine Learning course
+        \item Analyzed KANs' theoretical foundations and architectural differences from MLPs, covering learnable B-spline activation functions, training dynamics, and advanced techniques (sparsification, pruning, symbolic regression) for improved interpretability
+        \item Implemented and benchmarked KANs on regression and real-world classification tasks, achieving a higher classification accuracy, and published the code and materials (\href{https://github.com/matteopasqual02/KAN-naml.git}{GitHub})
     \end{highlights}
 \end{onecolentry}
 
@@ -240,11 +246,20 @@
 \vspace{0.10 cm}
 \begin{onecolentry}
     \begin{highlights}
-        \item Co-authored a paper accepted at UCAmI 2025 – 17th International Conference on Ubiquitous Computing and Ambient Intelligence (\href{https://doi.org/10.1007/978-3-032-16992-1_20}{Paper})
-        \item Developed a novel framework using Chaos Game Representation (CGR) to transform time-series sensor data into fractal-like images for behavioural analysis, enabling classification of daily routines.
+        \item Published a short paper at UCAmI 2025 -- 17th International Conference on Ubiquitous Computing and Ambient Intelligence (\href{https://doi.org/10.1007/978-3-032-16992-1_20}{Paper})
+        \item Developed a novel framework using Chaos Game Representation (CGR) to transform time-series sensor data into fractal-like images for behavioural analysis, enabling classification of daily routines
         \item Demonstrated effective anomaly detection and clustering of behavioural patterns on both synthetic and real-world multi-resident datasets
-        
     \end{highlights}
+\end{onecolentry}
+
+%--------------------------PUBLICATIONS----------------------------------------------
+
+\section{\mbox{{\color{black}\footnotesize\faBook}\hspace*{0.13cm}Publications}}
+
+\begin{onecolentry}
+\textbf{Non-intrusive Monitoring of Daily Habits in Older Adults: \\ A Chaos Game Representation-Based Approach}
+
+UCAmI 2025 -- 17th International Conference on Ubiquitous Computing and Ambient Intelligence (\href{https://doi.org/10.1007/978-3-032-16992-1_20}{DOI})
 \end{onecolentry}
 
 %--------------------------EXPERIENCE----------------------------------------------
@@ -254,16 +269,15 @@
     \textit{Milano, IT}    
             
     \textit{Sep 2025 – Jul 2026}}
-    \textbf{University Multichanche  Tutor}
+    \textbf{University Multichance Tutor}
             
     \textit{Politecnico di Milano}
     \end{twocolentry}
     \vspace{0.10 cm}
     \begin{onecolentry}
     \begin{highlights}
-        \item Tutored university students with the sponsorship of the Multichance Team
+        \item Provided one-to-one academic tutoring to university students through the Multichance program
         \item Provided personalized academic support and study assistance
-
     \end{highlights}
     \end{onecolentry}
 
@@ -280,21 +294,17 @@
     \vspace{0.10 cm}
     \begin{onecolentry}
     \begin{highlights}
-        \item Tutored university students with the sponsorship of Univeristy
+        \item Provided one-to-one academic tutoring to university students through the Peer-to-Peer tutoring program
         \item Provided personalized academic support and study assistance
     \end{highlights}
     \end{onecolentry}
-
-
-
-
 
 %--------------------------LANGUAGES----------------------------------------------    
 \section{\mbox{{\color{black}\footnotesize\faGlobeAmericas}\hspace*{0.13cm}Languages}}
 
 \begin{highlights}
-    \item \textbf{Italian}: native
-    \item \textbf{English}: C1
+    \item \textbf{Italian}: Native
+    \item \textbf{English}: Upper Intermediate (B2+)
 \end{highlights}
 
 %--------------------------SKILLS----------------------------------------------
@@ -302,10 +312,11 @@
 
     \begin{samepage}
     \begin{highlights}
+        \item \textbf{AI \& Machine Learning}: PyTorch, TensorFlow/Keras, scikit-learn, OpenCV
         \item \textbf{Programming \& Software Dev.}: Python, C/C++, Java
-        \item \textbf{Databases Technologies}: SQL, MongoDB, Spark, Neo4j, Zilliz-Milvus
-        \item \textbf{OS \& Middelware}: ROS, ROS2, Linux, Docker and VMs
-        \item \textbf{Other Technologies}: Matlab, VHDL/Vivado
+        \item \textbf{Databases Technologies}: SQL, MongoDB, Spark, Neo4j, Zilliz-Milvus, Pandas
+        \item \textbf{OS \& Middleware}: ROS, ROS2, Linux, Docker and VMs
+        \item \textbf{Other Technologies}: Matlab, VHDL/Vivado,  Git/GitHub, \LaTeX
     \end{highlights}
     \end{samepage}
 
@@ -315,17 +326,15 @@
             \textbf{Best Freshmen Award}: top 5\% freshmen of PoliMi
         \end{twocolentry}
 
-%--------------------------Volounteering---------------------------------------------- 
-    \section{\mbox{{\color{black}\footnotesize\faSeedling}\hspace*{0.13cm}Volounteering}}
+%--------------------------Volunteering---------------------------------------------- 
+    \section{\mbox{{\color{black}\footnotesize\faSeedling}\hspace*{0.13cm}Volunteering}}
             
-        \begin{twocolentry}{Set 2016 - Aug 2021}
-        \textbf{Volounteer at Oratorio di Albizzate}\\
+        \begin{twocolentry}{Sep 2016 - Aug 2021}
+        \textbf{Volunteer at Oratorio di Albizzate}\\
         Albizzate
         \end{twocolentry}
+        \begin{highlights}
+    \item Organized educational, recreational, and community activities for children and teenagers
+\end{highlights}
 
 \end{document}
-
-
-
-
-
